@@ -32,7 +32,7 @@ module.exports.connections = {
   mongo: {
     adapter: 'sails-mongo',
     host: process.env.MONGO_HOST || 'mongo',
-    port: process.env.MONGO_PORT ||27017,
+    port: process.env.MONGO_PORT || 27017,
     database: 'app'
   },
 
