@@ -1,10 +1,10 @@
 # Sails.js + MongoDB project template
 
-Get started with a new Sails.js project, powered by MongoDB, on [SourceLair](https://www.sourcelair.com/home) with a single click.
+Get started with a new Sails.js project, powered by MongoDB, on [SourceLair](https://www.sourcelair.com/home).
 
 ## Getting started
 
-The easiest way to get started is by visiting http://lair.io/stacks/sailsjs-mongo and starting a new SourceLair project.
+The easiest way to get started is by visiting http://lair.io/stacks/sailsjs-mongo and starting a new SourceLair project with a single click.
 
 This will do the following on your behalf:
 
