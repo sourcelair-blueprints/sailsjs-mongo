@@ -11,7 +11,7 @@ This will do the following on your behalf:
 1. create a new SourceLair project for your Sails.js + MongoDB app
 2. clone the code from this Git repository
 3. run `npm install` to install all needed dependencies (this might take a few minutes)
-4. start the Sails.js server and expose it to your public URL
+4. start the Sails.js server (`sails lift`) and expose it to your public URL
 
 ## Tips
 
